@@ -29,3 +29,9 @@ Specific, good-faith claims will be reviewed. Vague copycat accusations, unsuppo
 ====================================================
 
 FrameTop is an independently designed modular tabletop system released under the GNU GPL v3.0 open-source license. All files are freely available for the community to access, use, study, modify, and redistribute in accordance with the terms of that license. All design files and accompanying documentation are independent created from available images all over the interwebs. 
+
+
+<img width="1848" height="1274" alt="1" src="https://github.com/user-attachments/assets/97ffc664-ae6b-4a0e-ba63-1a1b8b2b4e50" />
+
+<img width="2544" height="1377" alt="Screenshot 2026-02-09 191446" src="https://github.com/user-attachments/assets/8d26985d-65f9-4d45-9c02-d06d3d8b51a8" />
+
